@@ -7,4 +7,6 @@ public class Test {
 
     private String aaa="h";
 
+    private String b = "2";
+
 }
